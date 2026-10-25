@@ -1,0 +1,25 @@
+# Installers and other binary release assets belong in GitHub Releases, not Git history.
+*.exe
+*.msi
+*.msix
+*.nsis.7z
+*.7z
+*.zip
+*.tar.gz
+
+# Generated application and development files
+dist/
+build/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Never commit personal archives, workspace databases or private settings.
+.archive-index/
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+*.log
