@@ -1,10 +1,10 @@
-# Archive Indexation
+# Ege's Archive Indexation App
 
 A Windows app for sorting through and managing large photo and video archives.
 
 The app runs locally. Indexing and ordinary browsing do not require an account or uploading your media or any sort of data collection.
 
-**[Download the latest GitHub Release](https://github.com/EgeEken/archind/releases)** · [Report a problem or suggest a feature](https://github.com/EgeEken/archind/issues)
+**[Download the Archive Indexation 1.0 Beta](https://github.com/EgeEken/archind/releases/download/v1.0-beta/ArchiveIndexationBetaSetup.exe)** · [Report a problem or suggest a feature](https://github.com/EgeEken/archind/issues)
 
 ## What you can do
 
