@@ -9,5 +9,3 @@ Permission is granted to download, install, and use unmodified official beta rel
 No additional permission is granted to redistribute or modify the proprietary components, except as permitted by applicable law.
 
 Third-party software and other separately licensed materials retain their own licenses and permissions. Nothing in these terms restricts rights granted by those licenses. See the bundled third-party notices for details.
-
-This beta software is provided without warranties to the extent permitted by applicable law. Users should test with disposable or backed-up media.
